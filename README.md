@@ -4,11 +4,6 @@
       <meta charset='utf-8'>
       <meta name='viewport' content='width=device-width'>
       <title>Privacy Policy</title>
-      <meta property="fb:app_id" content="725648517927685">
-      <meta property="og:type" content="article">
-      <meta property="og:url" content="https://github.com/amruadm/pighead-privacy/edit/master/README.md">
-      <meta property="og:title" content="GL">
-      <meta property="og:image" content="http://bridgegames.online/wp-content/uploads/2020/07/pighead_ikonka3_512kh512-1.png">
       <style> body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; } </style>
     </head>
     <body>
